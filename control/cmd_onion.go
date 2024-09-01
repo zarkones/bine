@@ -8,8 +8,8 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/cretz/bine/torutil"
-	"github.com/cretz/bine/torutil/ed25519"
+	"github.com/zarkones/bine/torutil"
+	"github.com/zarkones/bine/torutil/ed25519"
 )
 
 // KeyType is a key type for Key in AddOnion.

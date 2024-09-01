@@ -7,7 +7,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/cretz/bine/tor"
+	"github.com/zarkones/bine/tor"
 	"golang.org/x/net/proxy"
 )
 

@@ -4,7 +4,7 @@ import (
 	"io/ioutil"
 	"testing"
 
-	"github.com/cretz/bine/control"
+	"github.com/zarkones/bine/control"
 )
 
 func TestGetSetAndResetConf(t *testing.T) {

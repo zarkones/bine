@@ -10,8 +10,8 @@ import (
 	"strings"
 	"time"
 
-	"github.com/cretz/bine/examples/grpc/pb"
-	"github.com/cretz/bine/tor"
+	"github.com/zarkones/bine/examples/grpc/pb"
+	"github.com/zarkones/bine/tor"
 	"google.golang.org/grpc"
 )
 

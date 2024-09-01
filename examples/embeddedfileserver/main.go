@@ -10,8 +10,8 @@ import (
 	"path/filepath"
 	"time"
 
-	"github.com/cretz/bine/process/embedded"
-	"github.com/cretz/bine/tor"
+	"github.com/zarkones/bine/process/embedded"
+	"github.com/zarkones/bine/tor"
 )
 
 func main() {

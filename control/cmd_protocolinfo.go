@@ -3,7 +3,7 @@ package control
 import (
 	"strings"
 
-	"github.com/cretz/bine/torutil"
+	"github.com/zarkones/bine/torutil"
 )
 
 // ProtocolInfo is the protocol info result of Conn.ProtocolInfo.

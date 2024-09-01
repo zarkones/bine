@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/cretz/bine/process/embedded"
+	"github.com/zarkones/bine/process/embedded"
 )
 
 func main() {
